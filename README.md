@@ -17,15 +17,16 @@ Currently pursuing an **MS in Business Analytics at the University of Miami**, I
 
 ---
 
-### 🚀 Featured Projects
-*(Coming soon as I share my work and academic projects here!)*  
-- **[Data-Driven Quality Dashboard](#)** – Visualization tool for transplant lab.  Single Antigen performance monitoring  
----
-
 #### **Quality & Compliance**
-![ASHI](https://img.shields.io/badge/ASHI_Certified-1E90FF?style=for-the-badge)
+![ACHI](https://img.shields.io/badge/ASHI_Certified-1E90FF?style=for-the-badge)
 ![ASQ CMQ/OE](https://img.shields.io/badge/ASQ_CMQ%2FOE_Certified-2E8B57?style=for-the-badge)
 
+---
+
+### 🚀 Featured Projects
+*(Coming soon as I share my work and academic projects here!)*  
+- **[Data-Driven Quality Dashboard](#)** – Visualization tool for transplant lab.  Single Antigen performance monitoring
+  
 ---
 ### 📫 Let’s Connect
 - **Email:** cfernandez3@miami.edu  
