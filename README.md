@@ -23,9 +23,9 @@ Currently pursuing an **MS in Business Analytics at the University of Miami**, I
 
 ---
 
-### 🚀 Featured Projects
-*(Coming soon as I share my work and academic projects here!)*  
-- **[Data-Driven Quality Dashboard](#)** – Visualization tool for transplant lab.  Single Antigen performance monitoring
+### 🚀 Featured Project
+  
+- **[Data-Driven Quality Dashboard](#)** – Visualization tool for transplant lab.  Single Antigen performance monitoring (https://github.com/cfernandez3/Visualization-tool-for-transplant-lab.-Single-Antigen-performance-monitoring/blob/main/Analysis_of_Positive_Control_for_SA.ipynb)
   
 ---
 ### 📫 Let’s Connect
