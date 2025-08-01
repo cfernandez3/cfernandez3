@@ -26,7 +26,7 @@ Currently pursuing an **MS in Business Analytics at the University of Miami**, I
 ### 🚀 Featured Project
   
 - **[Data-Driven Quality Dashboard](#)** – Visualization tool for transplant lab.  Single Antigen performance monitoring
-- 
+  
 [![Open Notebook](https://img.shields.io/badge/Open_Notebook-Analysis_of_Positive_Control-blue?style=for-the-badge)](https://nbviewer.org/github/cfernandez3/Visualization-tool-for-transplant-lab.-Single-Antigen-performance-monitoring/blob/main/Analysis_of_Positive_Control_for_SA.ipynb)
 
   
