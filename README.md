@@ -38,4 +38,5 @@ Currently pursuing an **MS in Business Analytics at the University of Miami**, I
 
 > *"Transforming complex laboratory challenges into actionable, data-driven solutions."*
 
-![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
+                                                                                                                                                                                                                     
+                                                                                                                                 ![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
