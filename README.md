@@ -41,7 +41,7 @@ Currently pursuing an **MS in Business Analytics at the University of Miami**, I
 
 
 ### 👀 Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=AbilioGonzalez&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=cfernandez3&color=blue)
 
 
                                                                                                                                                                                                                    
