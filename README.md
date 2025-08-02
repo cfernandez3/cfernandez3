@@ -37,3 +37,5 @@ Currently pursuing an **MS in Business Analytics at the University of Miami**, I
 - **GitHub:** [github.com/cfernandez3](https://github.com/cfernandez3)  
 
 > *"Transforming complex laboratory challenges into actionable, data-driven solutions."*
+
+![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
