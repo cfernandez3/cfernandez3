@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Casiana Fernandez-Bango
 
-**Executive Director of Laboratory Operations | Business Analytics Professional**  
+**Executive Director of Laboratory Operations | MS in Business Analytics**
 
-I specialize in **leading multidisciplinary clinical teams, optimizing complex laboratory operations, and implementing data-driven solutions** to improve performance, compliance, and patient outcomes. With over 20 years of experience in **transplant immunology, histocompatibility, and quality management**, I bring expertise in **strategic planning, process improvement, and regulatory compliance**.  
+I bring together **clinical leadership and advanced analytics** to improve operational performance in complex healthcare environments.
 
-Currently pursuing an **MS in Business Analytics at the University of Miami**, I bridge the gap between **clinical operations and data analytics** to deliver measurable impact.
+With more than **20 years of experience in transplant immunology, histocompatibility, and laboratory quality systems**, I focus on **process optimization, regulatory compliance, and data-informed decision making**.
+
+I earned an **MS in Business Analytics from the University of Miami**, and my work emphasizes **turning operational data into actionable insights** through analytics, visualization, and performance measurement.
+
 
 ---
 
